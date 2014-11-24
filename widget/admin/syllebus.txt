@@ -1,0 +1,62 @@
+Monday: English (0800) and BE (1400)
+
+Tuesday: MES (0800) and Physics (1400)
+
+Wednesday: Maths (0800) and MOS (1400)
+
+This is the compiled syllabus to the best of my knowledge. If there are any corrections in any part, please comment below.
+
+English: 
+A Speech by Barack Obama, 
+The Unicorn, 
+Conflict with Others, 
+About An Inconvenient Truth. 
+Phonetics and the usual.
+
+BE: OP-AMPs, 
+Schmitt Trigger, 
+Square Wave Generator using OP-AMP, 
+Filters, 
+Oscillators, 
+Digital Electronics: Number System, Grey Code, 
+Logic Gates, 
+K-MAPs, 
+Flip Flops, 
+Shift Registers, 
+Counters, 
+IC 555 timer, 
+Analog -> Digital, 
+Digital -> Analog Converters
+
+MES: 
+Steam Turbines, 
+Refrigeration, 
+IC Engines (upto 4 stroke Diesel Engine)
+Casting, 
+Forging, 
+Lathe (till covered in class)
+
+Physics: 
+Quantum Physics, 
+Quantum Mechanics, 
+Atomic Physics (till Bohr's Model)
+
+Maths: 
+General Linear Higher Order Differential Equations, 
+
+Higher order non homo DE
+Variation of Parameter
+
+
+Laplace Transformations of elementary Functions.
+Application of multiple integrals: 
+Area and Volume problems using double and triple integration respectively, 
+Beta and Gamma Functions
+
+MOS: 
+Centroid, 
+Moment of Inertia, 
+Stress & Strain, 
+Statically indeterminate problems 
+and 
+sdDeformation due to self weight.
